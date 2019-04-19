@@ -1,7 +1,8 @@
 declare module "elapsed-time-counter" {
     interface ElapsedTimeCounter {
-        setStartTime(): null | number;
-        getStartTime(): number;
+        setStamp(): ElapsedTimeCounter;
+        getStamp(): number;
+        compareNow(): number;
     }
 
     interface ElapsedTimeCounterConstructor {
