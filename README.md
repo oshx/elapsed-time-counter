@@ -1,4 +1,4 @@
-# 추억
+# 순간 기록, 시간 비교하기
 
 이걸 만들었을 때는, 사실 아무 생각도 없었다.
 
@@ -10,6 +10,14 @@
 ```
 
 ## 설치
+
+### npm or yarn
+```
+npm i oshx/elapsed-time-counter
+yarn add oshx/elapsed-time-counter
+```
+
+## 설치, 안 되는 경우
 ### npm
 ```
 npm i git+https://oshx@github.com/oshx/elapsed-time-counter.git
