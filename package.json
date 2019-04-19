@@ -1,11 +1,8 @@
 {
   "name": "elapsed-time-counter",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Meaningless",
   "main": "lib/index.js",
-  "scripts": {
-    "build": "webpack"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://oshx@github.com/oshx/elapsed-time-counter.git"
@@ -22,11 +19,5 @@
   "bugs": {
     "url": "https://github.com/oshx/elapsed-time-counter/issues"
   },
-  "homepage": "https://github.com/oshx/elapsed-time-counter#readme",
-  "devDependencies": {
-    "babel-core": "^6.10.4",
-    "babel-loader": "^6.2.4",
-    "babel-preset-es2015": "^6.9.0",
-    "webpack": "^1.13.1"
-  }
+  "homepage": "https://github.com/oshx/elapsed-time-counter#readme"
 }
