@@ -1,8 +1,8 @@
 module.exports = {
-    entry: "./js/ElapsedTimeCounter.js",
+    entry: "./src/main.js",
     output: {
-        path: './dist/',
-        filename: "ElapsedTimeCounter.js"
+        path: './lib/',
+        filename: "index.js"
     },
     module: {
         loaders: [

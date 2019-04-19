@@ -1,10 +1,10 @@
 {
   "name": "elapsed-time-counter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Elapsed time counter from first visit to specific time",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
@@ -12,11 +12,13 @@
   },
   "keywords": [
     "time",
-    "counter",
-    "elapse"
+    "counter"
   ],
-  "author": "오승환(Odi)",
-  "license": "ISC",
+  "author": {
+    "name": "오승환",
+    "email": "oshxios@gmail.com"
+  },
+  "license": "UNLICENSED",
   "bugs": {
     "url": "https://github.com/oshx/elapsed-time-counter/issues"
   },
