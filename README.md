@@ -36,6 +36,7 @@ setStamp(): Instance
 
 `
 getStamp(): number` 밀리초 기준 시점 값을 반환한다.
+
 `
 compareNow(): number` 밀리초로 기준 시점과 현재의 차이를 반환한다.
 
