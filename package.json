@@ -1,7 +1,7 @@
 {
   "name": "elapsed-time-counter",
   "version": "0.0.2",
-  "description": "Elapsed time counter from first visit to specific time",
+  "description": "Meaningless",
   "main": "lib/index.js",
   "scripts": {
     "build": "webpack"

@@ -1,4 +1,13 @@
-declare module ElapsedTimeCounter {
-    export function setStartTime(): null | number;
-    export function getStartTime(): number;
+declare module "elapsed-time-counter" {
+    interface ElapsedTimeCounter {
+        setStartTime(): null | number;
+        getStartTime(): number;
+    }
+
+    interface ElapsedTimeCounterConstructor {
+        new (): ElapsedTimeCounter;
+    }
+
+    let etc: ElapsedTimeCounter;
+    export = etc;
 }
