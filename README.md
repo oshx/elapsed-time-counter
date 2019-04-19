@@ -1,5 +1,7 @@
 # 순간 기록, 시간 비교하기
 
+[![Build Status](https://travis-ci.com/oshx/elapsed-time-counter.svg?branch=master)](https://travis-ci.com/oshx/elapsed-time-counter)
+
 이걸 만들었을 때는, 사실 아무 생각도 없었다. 그냥 Log 찍을 때 아주 가벼운, 단순한 Time Stamp와 비교 도구가 필요했다.
 
 ## 준비
