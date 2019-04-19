@@ -1,6 +1,7 @@
 const GLOBAL_BASE_NAME = '__ELAPSED_TIME_COUNTER_GLOBAL_BASE_TIME__';
 
-class ElapsedTimeCounter {
+export default class ElapsedTimeCounter {
+
     setStartTime() {
         const GLOBAL_BASE_TIME = new Date().getTime();
         if (!window) {
