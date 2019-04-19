@@ -10,6 +10,14 @@
 ```
 
 ## 설치
+### npm
 ```
-준비 중
+npm i git+https://oshx@github.com/oshx/elapsed-time-counter.git
 ```
+### yarn
+```
+yarn add git+https://oshx@github.com/oshx/elapsed-time-counter.git
+```
+
+## 정책
+아무 생각이 없이 만들었기 때문에, 아무 생각 없이 쓰면 된다.
