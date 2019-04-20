@@ -1,6 +1,6 @@
 {
-  "name": "elapsed-time-counter",
-  "version": "0.1.0",
+  "name": "@oshx/elapsed-time-counter",
+  "version": "0.1.1",
   "description": "Meaningless",
   "main": "lib/index.js",
   "repository": {
